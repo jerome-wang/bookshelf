@@ -77,5 +77,6 @@ typings/
 /plugins/* 
 /dist/ 
 /temp/ 
+/.temp/
 assets/tools/ 
 .vscode 

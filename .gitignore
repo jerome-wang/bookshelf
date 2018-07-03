@@ -71,3 +71,11 @@ typings/
 
 # Serverless directories
 .serverless
+
+# weex related 
+/platforms/* 
+/plugins/* 
+/dist/ 
+/temp/ 
+assets/tools/ 
+.vscode 
